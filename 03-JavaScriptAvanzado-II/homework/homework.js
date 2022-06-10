@@ -1,5 +1,5 @@
 "use strict";
-
+//ESTE ES EL NUEVO ANDA BIEN
 // Closures
 
 function counter() {
